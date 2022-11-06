@@ -7,7 +7,7 @@ Download vmware workstation pro
 Use a mirror link on the archlinux wiki to dowload an iso of archlinux.
 Iused the MIT mirror link
 
-##vm setup
+## vm setup
 Follow setup instructions in vmware workstation to setup a  new virtual machine 
 Ensure that you select the iso file you previously downloaded for the linux install when setting up the new vmware 
 reccomend setting ram for your vmware to more than the default 768MB
